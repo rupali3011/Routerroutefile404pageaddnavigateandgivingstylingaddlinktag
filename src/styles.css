@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Navbar li {
+  display: inline-block;
+}
+.link1 {
+  color: green;
+  text-decoration: none;
+}
